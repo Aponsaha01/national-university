@@ -1,0 +1,125 @@
+.colour1{
+    background-color:#143F6B;
+    height: 140px;width: 1000px;
+    margin-left: 100px;margin-right: 100px;
+}
+.tag1{
+    color: white;
+    text-align: justify;
+    float: right;
+    margin-right: 550px;
+}
+
+.img1{
+    height: 120px;
+}
+.colour2{
+    background-color: #83BD75;
+    height: 30px;width: 1000px;
+    margin-left: 100px;margin-right: 100px;
+    border-radius: 12px;
+}
+.inline li{
+    display: inline;
+    margin: 10px;
+    font-family: sans-serif;
+    padding-left: 10px;
+}
+.inline li a:hover{
+    color: #ff4321;
+}
+.honours{
+    text-decoration: none;
+}
+.Professiomal{
+    text-decoration: none;
+}
+.DegreePass{
+    text-decoration: none;
+}
+.Master{
+    text-decoration: none;
+}
+
+.colour3{
+    background-color:#F7F7F7;
+    height: 600px;width: 1000px;
+    margin-left: 100px;margin-right: 100px;
+}
+.inline2 li{
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-decoration: none;
+    font-size: 16px;
+    display: inline-block;
+    margin: 4px 20px;
+    cursor: pointer;
+    
+}
+    
+.inline2 li a:hover{
+    color: #ff4321;
+}
+.row{
+    background-color: #1d81e4;
+    float: left;
+    width: 33.33%;
+  }
+.container{
+    display: grid;
+    grid-template-columns: repeat(12,1fr);
+}
+.online{
+    grid-column: 1/4;
+}
+.admission{
+    grid-column: 5/9;
+}
+.table{
+    grid-column: 10/-1;
+}
+.inline3 li{
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-decoration: none;
+    font-size: 16px;
+    display: inline-block;
+    margin: 4px 20px;
+    cursor: pointer;   
+}
+    
+.inline3 li a:hover{
+    color: #ff4321;
+}
+.btn{
+    background-color: black;
+}
+.heading1{
+    text-align: center;
+}
+.th,td{
+    border: 1px solid black;
+}
+.a{
+    width: 175px;
+    padding: 10px;
+    border: 1px solid gray;
+    margin: 0;
+    color: #ff4321;
+}
+.b{
+    width: 175px;
+    padding: 10px;
+    border: 1px solid gray;
+    margin: 0;
+    color: #ff4321;
+}
+.c{
+    width: 175px;
+    padding: 10px;
+    border: 1px solid gray;
+    margin: 0;
+    color: #ff4321;
+}
